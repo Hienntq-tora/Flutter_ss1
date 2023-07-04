@@ -1,0 +1,32 @@
+class IconManager {
+  static const icDir = "assets/icons";
+  static const mail = '$icDir/mail.svg';
+  static const password = '$icDir/password.svg';
+  static const eyes = '$icDir/eyes.svg';
+  static const openEyes = '$icDir/open-eyes.svg';
+  static const loginRight = '$icDir/login_right.svg';
+  static const gmail = '$icDir/gmail.svg';
+  static const tickEmpty = '$icDir/tick_empty.png';
+  static const tickFilled = '$icDir/tick_filled.png';
+  static const avatar = '$icDir/avatar.svg';
+  static const filter = '$icDir/filter.svg';
+  static const home = '$icDir/home.svg';
+  static const money = '$icDir/money.svg';
+  static const key = '$icDir/key.svg';
+  static const logout = '$icDir/log_out.svg';
+  static const search = '$icDir/search.svg';
+  static const sort = '$icDir/sort.svg';
+  static const back = '$icDir/back.svg';
+  static const report = '$icDir/report.svg';
+  static const comment = '$icDir/comment.svg';
+  static const commentFilled = '$icDir/comment-filled.svg';
+  static const clipboardText = '$icDir/clipboard-text.svg';
+  static const star = '$icDir/ic_star.svg';
+  static const edit1 = '$icDir/edit-1.svg';
+  static const trash = '$icDir/trash.svg';
+  static const feedback = '$icDir/envelope-open.svg';
+  static const income = '$icDir/coins.svg';
+  static const student = '$icDir/student.svg';
+  static const suffix = '$icDir/suffix.svg';
+  static const lessonPlaceholder = '$icDir/lesson-placeholder.svg';
+}
