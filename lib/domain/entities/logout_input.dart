@@ -1,0 +1,3 @@
+class LogoutInput {
+  const LogoutInput();
+}
